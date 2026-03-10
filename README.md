@@ -33,7 +33,7 @@ Minha abordagem no desenvolvimento vai além da interface. Tenho um perfil anal�
 
 ### 🛠️ Minha Caixa de Ferramentas
 
-[![My Skills](https://skillicons.dev/icons?i=vue,react,tailwind,html,css,postgres,graphql,git,github,githubactions,python,java,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vue,react,tailwind,html,css,postgres,graphql,git,github,githubactions,python,figma)](https://skillicons.dev)
 
 ---
 
@@ -41,7 +41,7 @@ Minha abordagem no desenvolvimento vai além da interface. Tenho um perfil anal�
 
 Se você busca uma desenvolvedora que encara desafios técnicos com resiliência e foco em resultados, vamos conversar!
 
-* **LinkedIn:** [linkedin.com/in/estedyla-hansen/](https://www.google.com/search?q=https://linkedin.com/in/estedyla-hansen/) 
+* **LinkedIn:** [linkedin.com/in/estedyla-hansen/](https://www.linkedin.com/in/estedyla-hansen/) 
 
 
 * **Email:** [estedylahansen@gmail.com](mailto:estedylahansen@gmail.com) 
