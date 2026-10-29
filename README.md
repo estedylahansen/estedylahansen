@@ -1,49 +1,21 @@
-# Oi! Que bom te ver por aqui. Eu sou a Estédyla Hansen 👋
+# Estédyla Hansen — Front-end Engineer
 
-Sou uma desenvolvedora que acredita que o código é uma ferramenta para transformar processos em experiências fluidas. Minha jornada começou na **Administração**, o que me deu uma visão estratégica de negócio, mas foi na **Engenharia de Software** que encontrei o meu propósito: construir soluções sólidas e eficientes. 
+**Vue 3 · React · TypeScript**
 
-### 💻 Especialidade & Entrega Técnica
+Desenvolvo e evoluo produtos front-end em produção, com experiência em empresas de grande porte e startups. Atuo na evolução e refatoração de código legado, com foco em performance, manutenibilidade e fidelidade ao design. Formada em Administração e Engenharia de Software, uso a visão de negócio para priorizar o que gera impacto.
 
-Minha principal área de atuação é o **Front-end**, onde encaro o desafio de converter layouts complexos em aplicações vivas e performáticas como uma oportunidade de entregar excelência técnica. Mais do que apenas codificar, meu foco está em garantir que a interação do usuário seja impecável e escalável. 
-
-* **Especialista em Vue.js (Vue 3 & Composition API):** Desenvolvimento de aplicações robustas com arquitetura de componentes moderna, garantindo manutenibilidade e escalabilidade do código. 
-
-
-* **Domínio em React.js:** Experiência na criação de interfaces dinâmicas utilizando **Hooks** e **Context API** para uma gestão de estado eficiente. 
-
-
-* **Interfaces de Alta Performance com Tailwind CSS:** Implementação de designs responsivos e intuitivos com rigor técnico e fidelidade absoluta aos protótipos do **Figma**. 
-
-
-* **Consumo de Dados & APIs:** Integração contínua de front-end com serviços de backend através de **APIs REST e GraphQL**. 
-
-
-
-### 🚀 Resolução de Problemas & Mentalidade Ágil
-
-Minha abordagem no desenvolvimento vai além da interface. Tenho um perfil analítico apurado para **diagnóstico de bugs** e **otimização de performance**, competências que consolidei ao lidar com sistemas complexos e fluxos de suporte técnico. 
-
-* **Lógica e Segurança:** Experiência na implementação de fluxos de autenticação, filtros avançados e protocolos de segurança da informação. 
-
-
-* **Cultura Dev:** Trabalho sob metodologias ágeis (**Scrum/Kanban**) e utilizo fluxos de **GitFlow** para garantir a integridade do ciclo de lançamento. 
-
+🔗 **Portfólio:** [estedyla.com](https://estedyla.com)
+💼 **LinkedIn:** [estedyla-hansen](https://www.linkedin.com/in/estedyla-hansen/)
+✉️ **E-mail:** [estedylahansen@gmail.com](mailto:estedylahansen@gmail.com)
 
 ---
 
-### 🛠️ Minha Caixa de Ferramentas
+### Stack
 
-[![My Skills](https://skillicons.dev/icons?i=vue,react,tailwind,html,css,postgres,graphql,git,github,githubactions,python,figma)](https://skillicons.dev)
-
----
-
-### 📬 Vamos construir algo incrível?
-
-Se você busca uma desenvolvedora que encara desafios técnicos com resiliência e foco em resultados, vamos conversar!
-
-* **LinkedIn:** [linkedin.com/in/estedyla-hansen/](https://www.linkedin.com/in/estedyla-hansen/) 
-
-
-* **Email:** [estedylahansen@gmail.com](mailto:estedylahansen@gmail.com) 
-
-
+| Categoria | Tecnologias |
+|---|---|
+| Front-end | React, TypeScript, Vue 3 (Composition API), Tailwind CSS |
+| Design System | Componentes reutilizáveis, Figma |
+| Qualidade | Vitest, Cypress, Playwright |
+| Dados & APIs | REST, GraphQL, PostgreSQL |
+| Ferramentas | Git/GitFlow, GitHub Actions |
